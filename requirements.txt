@@ -1,0 +1,21 @@
+# Venâncio Delivery - Dependências
+# ================================
+
+# Este projeto utiliza apenas bibliotecas padrão do Python
+# Não requer instalação de pacotes externos
+
+# Requisitos mínimos:
+# - Python 3.6+
+# - tkinter (incluído por padrão na maioria das distribuições Python)
+# - datetime (biblioteca padrão)
+
+# Para sistemas Linux que podem não ter tkinter pré-instalado:
+# sudo apt-get install python3-tk
+
+# Testado em:
+# - Python 3.8+
+# - Windows 10/11
+# - Tkinter 8.6+
+
+# Nota: Este arquivo serve apenas para documentação
+# Não há dependências externas para instalar via pip
